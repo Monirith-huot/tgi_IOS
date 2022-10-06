@@ -1,0 +1,46 @@
+{
+    "name": {
+        "common": "Cambodia",
+        "official": "Kingdom of Cambodia",
+        
+    },
+
+    "capital": [
+        "Phnom Penh"
+    ],
+    "borders": [
+        "LAO",
+        "THA",
+        "VNM"
+    ],
+    "area": 181035,
+    "flag": "🇰🇭",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+    },
+    "population": 16718971,
+    
+    
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/kh.png",
+        "svg": "https://flagcdn.com/kh.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg"
+    },
+    "timezones": [
+        "UTC+07:00"
+        ],
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            11.55,
+            104.92
+        ]
+    },
+}
